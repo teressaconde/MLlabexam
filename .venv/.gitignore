@@ -1,0 +1,1 @@
+echo heart_disease_model.pkl > .gitignore
